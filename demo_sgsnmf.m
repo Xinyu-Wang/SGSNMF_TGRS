@@ -6,10 +6,10 @@
 %                     All rights reserved.
 %
 % References:
-% X. Wang, Y. Zhong, L. Zhang, and Y. Xu, ¡°Spatial Group Sparsity
-% Regularized Nonnegative Matrix Factorization for Hyperspectral Unmixing,¡±
+% X. Wang, Y. Zhong, L. Zhang, and Y. Xu, Â¡Â°Spatial Group Sparsity
+% Regularized Nonnegative Matrix Factorization for Hyperspectral Unmixing,Â¡Â±
 % IEEE Transactions on Geoscience and Remote Sensing, vol. 55, no. 11, pp.
-% 6287-6304, NOV 2017, 2017.
+% 6287-6304, 2017.
 %
 % Notes:
 %
