@@ -7,9 +7,9 @@ X. Wang, Y. Zhong, L. Zhang, and Y. Xu, “Spatial Group Sparsity Regularized No
 Copyright (C) 2018, Xinyu Wang (wangxinyu@whu.edu.cn)
                     Yanfei Zhong (zhongyanfei@whu.edu.cn)
                     Wuhan university
-                    All rights reserve.
+                    All rights reserve
 
-Please kindly cite above paper if you find the code helpful. Thanks for your interest！
+Please cite the paper if you find the code helpful. Thanks for your interest！
 
 # Last Modified:
 27 Feb, 2018
