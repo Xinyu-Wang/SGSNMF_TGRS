@@ -161,7 +161,7 @@ function seg = slic_HSI(im, k, m, seRadius, nItr)
     subplot_tight(1, 2, 1,[.06 .03]); image(im_seg);axis image;axis off;title('Segmentation','fontsize',8);  
     subplot_tight(1, 2, 2,[.06 .03]); imagesc(Cj);axis off;axis image;title('Confindence index','fontsize',8);   
     drawnow;
-    saveas(gcf,'results/results_Seg.tif');
+    saveas(gcf,'../results/results_Seg.tif');
 end
        
     
