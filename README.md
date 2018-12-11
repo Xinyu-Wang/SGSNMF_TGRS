@@ -14,5 +14,7 @@ Copyright (C) 2018, Xinyu Wang (wangxinyu@whu.edu.cn)
 Please cite the paper if you find the code helpful. Thanks for your interest!
 
 
-# V2:  7 Dec.2018 several functions(i.e. slic_HSI and)
+# V2:  
+
+7 Dec.2018 several functions (i.e. slic_HSI and sgsnmf) were revised.
 
